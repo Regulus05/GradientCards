@@ -49,7 +49,7 @@ body{
     background: linear-gradient(45deg,#ffbc00,#ff0058);
 }
 
-.container .box:hover::after{
+.container .box::after{
     content: '';
     position: absolute;
     top: 0;
